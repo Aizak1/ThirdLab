@@ -1,0 +1,7 @@
+D:\c#projects\ThirdLab\ThirdLab\bin\Debug\ThirdLab.exe.config
+D:\c#projects\ThirdLab\ThirdLab\bin\Debug\ThirdLab.exe
+D:\c#projects\ThirdLab\ThirdLab\bin\Debug\ThirdLab.pdb
+D:\c#projects\ThirdLab\ThirdLab\obj\Debug\ThirdLab.csprojAssemblyReference.cache
+D:\c#projects\ThirdLab\ThirdLab\obj\Debug\ThirdLab.csproj.CoreCompileInputs.cache
+D:\c#projects\ThirdLab\ThirdLab\obj\Debug\ThirdLab.exe
+D:\c#projects\ThirdLab\ThirdLab\obj\Debug\ThirdLab.pdb
